@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LTRC</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="fill_per_info_here">Fill Personal Info Here</string>
+    <string name="button_save">Save</string>
+    <string name="hint_word">Word...</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="ic_headshot">HeadShot</string>
+    <string name="button_projects">Projects</string>
+    <string name="button_experience">Experience</string>
+    <string name="button_skills">Skills</string>
+    <string name="button_hobbies">Hobbies</string>
+    <string name="headshot_description">Carleton University\n Bachelor of Engineering\n Computer Systems</string>
+    <string name="project_header">Projects</string>
+    <string name="projects_body_team_size">Team Size</string>
+    <string name="projects_body_description">Description</string>
+    <string name="projects_body_role">My Role</string>
+    <string name="projects_body_outcome">Outcome</string>
+    <string name="number_4">4</string>
+    <string name="number_3">3</string>
+    <string name="individual">Individual</string>
+    <string name="project_p2p_desc">The two main types of streaming services are Client-Server and Peer-to-Peer. In order to see if a peer to peer streaming service would benefit a streaming service we built a tool that would take in multiple problems about the network and live data. The network would be simulated with a peer to peer streaming service and the result would give results.</string>
+    <string name="project_p2p_role">My main role in this group project was to create a dynamic network based on the real world dat supplied by our client. The majority of my work was done in C++ and used the Network Simulator 3 framework. I had to read the parsed data line by line and create the respective nodes and links between the nodes based on their IP address.</string>
+    <string name="project_p2p_outcome">The outcome of this project was an A on the fourth year project. For the implementation of the simulator as well as the design</string>
+    <string name="title_activity_skills">Skills</string>
+    <string name="large_text">
+        "<b>Languages</b>\n\n"
+
+        "Java, JavaScript, SQL, Python, C++, C#, Cucumber and VB.NET.\n\n"
+
+        "<b>Technologies/Frameworks</b>\n\n"
+
+        "Spring, Angular, REST, Selenium, JUnit and J2EE.\n\n"
+
+        "<b>Non-Technical</b>\n\n"
+
+        "AGILE Methodologies, Quick Learner, Multitasker, Active Team Member, Excellent Verbal and Written Communication, Time Management and Self Starter    \n\n"
+
+        "<b>Tools</b>\n\n"
+
+        "Eclipse, Visual Studio, Android Studio, SQLServer, PL/SQL, Jira, Git and SVN.  \n\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
